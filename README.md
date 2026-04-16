@@ -7,14 +7,16 @@ It was designed to evaluate web application security solutions, such as API secu
 IPS, API gateways, and others.
 
 ---
-* [How it works](#how-it-works)
-* [Requirements](#requirements)
-* [Quick start with Docker](#quick-start-with-docker)
-* [Checking evaluation results](#checking-the-evaluation-results)
-* [Demos](#demos)
-* [Other options to run GoTestWAF](#other-options-to-run-gotestwaf)
-* [Configuration options](#configuration-options)
-* [Running with OWASP Core Rule Set regression testing suite](#running-with-owasp-core-rule-set-regression-testing-suite)
+- [GoTestWAF ](#gotestwaf-)
+  - [How it works](#how-it-works)
+  - [Requirements](#requirements)
+  - [Quick start with Docker](#quick-start-with-docker)
+  - [Checking the evaluation results](#checking-the-evaluation-results)
+  - [Demos](#demos)
+  - [Other options to run GoTestWAF](#other-options-to-run-gotestwaf)
+  - [Configuration options](#configuration-options)
+    - [Scan based on OpenAPI file](#scan-based-on-openapi-file)
+  - [Running with OWASP Core Rule Set regression testing suite](#running-with-owasp-core-rule-set-regression-testing-suite)
 ---
 
 ## How it works
@@ -355,7 +357,8 @@ In addition to running the GoTestWAF Docker image downloaded from Docker Hub, yo
     ```sh
     git clone https://github.com/wallarm/gotestwaf.git
     cd gotestwaf
-    go build -mod vendor -o gotestwaf ./cmd
+    go mod vendor
+    go build -mod vendor -o gotestwaf ./cmd/gotestwaf
     ```
 
 Supported GoTestWAF configuration options are described below.
